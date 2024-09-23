@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Django specific
+db.sqlite3
+/static/
+media/
+
+# Logs
+*.log
+
+# Virtual Environments
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# IDE Files
+.vscode/
+.idea/
+
+# Windows specific files
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
